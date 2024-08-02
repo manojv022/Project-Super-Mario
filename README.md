@@ -57,7 +57,7 @@ sudo apt-get install terraform
 terraform --version
 
 ````
-$\color{blue}{Setup \ AWS \ CLI:}$
+- $\color{blue}{Setup \ AWS \ CLI:}$
 ````
 curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
 sudo apt install unzip 
@@ -95,7 +95,7 @@ mv ./kubectl ~/.local/bin/kubectl
 kubectl version --client
 ````
 ### $\color{red}{Step 3 → IAM \ Role \ for \ EC2}$
-create role:
+   - create role:
 ![role](https://github.com/abhipraydhoble/Project-Super-Mario/assets/122669982/31a05c18-f34b-430d-b5cb-c5873ae6e9c5)
 
 ### $\color{red}{Step 4 →Attach \ IAM \ role \ with \ your \ EC2 }$
@@ -109,7 +109,7 @@ click on actions → security → modify IAM role option
 ![modify-role](https://github.com/abhipraydhoble/Project-Super-Mario/assets/122669982/3e998e21-3654-43b0-8df0-496f009ef0a6)
 
 ### $\color{red}{Step 5 → Building \ Infrastructure \ Using \ terraform}$
-$\color{blue}{Install \ GIT}$
+- $\color{blue}{Install \ GIT}$
 ````
 sudo apt install git -y
 git clone https://github.com/abhipraydhoble/Project-Super-Mario.git
@@ -119,7 +119,7 @@ vim backend.tf
 ````
 ![backend tf](https://github.com/abhipraydhoble/Project-Super-Mario/assets/122669982/6b9e648f-2f13-41e8-a66b-6b6e6e0a63de)
 
-$\color{blue}{Create \ Infra:}$
+- $\color{blue}{Create \ Infra:}$
 ````
 terraform init
 terraform validate
@@ -133,11 +133,11 @@ change the directory where deployment and service files are stored use the comma
 ````
 cd ..
 ````
-$\color{blue}{create \ the \ deployment}$
+- $\color{blue}{create \ the \ deployment}$
 ````
 kubectl apply -f deployment.yaml
 ````
-$\color{blue}{Now \ create \ the \ service}$
+- $\color{blue}{Now \ create \ the \ service}$
 ````
 kubectl apply -f service.yaml
 kubectl get all
@@ -150,7 +150,7 @@ copy the load balancer ingress and paste it on browser and your game is running
 
 
 
-$\color{green}{Final \ Output:}$
+- $\color{green}{Final \ Output:}$
 
 ![output](https://github.com/abhipraydhoble/Project-Super-Mario/assets/122669982/edfff0b5-6507-48e4-b552-908671b59920)
 

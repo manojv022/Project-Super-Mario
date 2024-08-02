@@ -20,7 +20,7 @@
    
    ![instance](https://github.com/abhipraydhoble/Project-Super-Mario/assets/122669982/5fe51373-eaac-4f7c-9669-34c578277051)
   
-   - 3. `Connect to EC2-Instance`
+   - 2. `Connect to EC2-Instance`
    
    ![connect-ec2](https://github.com/abhipraydhoble/Project-Super-Mario/assets/122669982/9d518e77-6f65-4153-acfc-790a6eaf669a)
 

@@ -1,20 +1,20 @@
 # $$\color{darkblue}{\textbf Project: \ \color{red} \textbf Super \ \color{zblack} \textbf Mario \ \textbf Bros }$$
-##  $\color{blue}{Project \ Workflow}$
-Step 1 → Login and basics setup
+- ##  $\color{blue}{Project \ Workflow}$
+   - Step 1 → Login and basics setup
 
-Step 2 → Setup Docker ,Terraform ,aws cli , and Kubectl
+   - Step 2 → Setup Docker ,Terraform ,aws cli , and Kubectl
 
-Step 3 → IAM Role for EC2
+   - Step 3 → IAM Role for EC2
 
-Step 4 →Attach IAM role with your EC2
+   - Step 4 →Attach IAM role with your EC2
 
-Step 5 → Building Infrastructure Using terraform
+   - Step 5 → Building Infrastructure Using terraform
 
-Step 6 → Creation of deployment and service for EKS
+   - Step 6 → Creation of deployment and service for EKS
 
 
 
-### $\color{red}{Step 1 → Login \ and \ basics \ setup}$
+- ### $\color{red}{Step 1 → Login \ and \ basics \ setup}$
 1. Click on launch Instance
    ![instance](https://github.com/abhipraydhoble/Project-Super-Mario/assets/122669982/5fe51373-eaac-4f7c-9669-34c578277051)
 2. Connect to EC2-Instance

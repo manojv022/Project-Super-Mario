@@ -29,14 +29,14 @@
 ````
 sudo apt update -y
 ````
-$\color{blue}{Setup \ Docker:}$
+- $\color{blue}{Setup \ Docker:}$
 ````
 sudo apt install docker.io
 sudo usermod -aG docker ubuntu
 newgrp docker
 docker --version
 ````
-$\color{blue}{Setup \ Terraform:}$
+- $\color{blue}{Setup \ Terraform:}$
 ````
 sudo apt-get update && sudo apt-get install -y gnupg software-properties-common
 

@@ -10,5 +10,5 @@ terraform {
 # Configure the AWS Provider
 provider "vishnoi" {
   region = "us-east-1"
-  profile = "eks"
+  profile = "vishnoi"
 }

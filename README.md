@@ -152,7 +152,19 @@ copy the load balancer ingress and paste it on browser and your game is running
 
 - $\color{green}{Final \ Output:}$
 
-![output](https://github.com/abhipraydhoble/Project-Super-Mario/assets/122669982/edfff0b5-6507-48e4-b552-908671b59920)
+
+![Screenshot 2024-08-04 013621](https://github.com/user-attachments/assets/c94afd9f-581d-4c52-8ac1-90c7670b4e71)
+
+![Screenshot 2024-08-04 020155](https://github.com/user-attachments/assets/600fbd97-f559-4815-8ae1-fe2d67b7c5bd)
+
+
+![Screenshot 2024-08-04 022148](https://github.com/user-attachments/assets/50bf3642-1c52-4e7c-bc38-f1d5b4bd495c)
+
+
+![Screenshot 2024-08-04 022410](https://github.com/user-attachments/assets/5d825507-6a7a-47fd-9ca9-5f763aa43360)
+
+
+- After done destroy it.
 
 
 

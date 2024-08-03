@@ -17,8 +17,9 @@
 - ### $\color{red}{Step 1 → Login \ and \ basics \ setup}$
   
    - 1. `Click on launch Instance`
-   
-   ![instance](https://github.com/abhipraydhoble/Project-Super-Mario/assets/122669982/5fe51373-eaac-4f7c-9669-34c578277051)
+     2. 
+   ![image](https://github.com/user-attachments/assets/97742e0f-416b-4be5-8d28-280559f6d3be)
+
   
    - 2. `Connect to EC2-Instance`
    

@@ -8,7 +8,7 @@ terraform {
 }
 
 # Configure the AWS Provider
-provider "aws" {
-  region = "ap-south-1"
+provider "vishnoi" {
+  region = "us-east-1"
   profile = "eks"
 }

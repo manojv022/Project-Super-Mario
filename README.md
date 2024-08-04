@@ -17,7 +17,7 @@
 - ### $\color{red}{Step 1 → Login \ and \ basics \ setup}$
   
    - 1. `Click on launch Instance`
-     2. 
+      
    ![image](https://github.com/user-attachments/assets/97742e0f-416b-4be5-8d28-280559f6d3be)
 
   

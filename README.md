@@ -113,7 +113,7 @@ click on actions → security → modify IAM role option
 - $\color{blue}{Install \ GIT}$
 ````
 sudo apt install git -y
-git clone https://github.com/abhipraydhoble/Project-Super-Mario.git
+git clone https://github.com/manojv022/Project-Super-Mario.git
 cd Project-Super-Mario
 cd EKS-TF
 vim backend.tf
